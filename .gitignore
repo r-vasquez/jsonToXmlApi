@@ -1,0 +1,12 @@
+*.out
+
+vendor/
+tmp/
+
+# IDE specific files
+.vscode
+.idea
+
+# Specific config file for air https://github.com/cosmtrek/air
+.air.toml
+
